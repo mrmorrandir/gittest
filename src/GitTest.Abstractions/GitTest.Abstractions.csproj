@@ -10,6 +10,7 @@
         <Description>Abstract magic in here</Description>
         <RepositoryUrl>https://github.com/mrmorrandir/gittest/</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
+        <Version>1.1.0</Version>
     </PropertyGroup>
 
 </Project>
