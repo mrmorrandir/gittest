@@ -6,6 +6,6 @@ public class MagicService : IMagicService
 {
     public string GetMagicString()
     {
-        return "Magic string";
+        return "Magic is everywhere";
     }
 }
