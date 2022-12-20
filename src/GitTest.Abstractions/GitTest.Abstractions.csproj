@@ -4,6 +4,12 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>GitTest.Abstractions</Title>
+        <Authors>Andreas Naumann</Authors>
+        <Description>Abstract magic in here</Description>
+        <RepositoryUrl>https://github.com/mrmorrandir/gittest/</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
 </Project>
