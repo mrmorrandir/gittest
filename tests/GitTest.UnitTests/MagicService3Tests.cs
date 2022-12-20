@@ -9,6 +9,6 @@ public class MagicService3Tests
         
         var result = magicService.GetMagicString();
         
-        result.Should().Match("*Magic*number*");
+        result.Should().Match("*number*");
     }
 }
