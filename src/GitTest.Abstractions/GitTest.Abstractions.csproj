@@ -11,6 +11,18 @@
         <RepositoryUrl>https://github.com/mrmorrandir/gittest/</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <Version>1.1.0</Version>
+        <Copyright>2022 @ Andreas Naumann</Copyright>
+        <PackageProjectUrl>https://github.com/mrmorrandir/gittest/</PackageProjectUrl>
+        <PackageIcon>icon.png</PackageIcon>
+        <PackageReleaseNotes>Magic, Tests, Development</PackageReleaseNotes>
     </PropertyGroup>
+
+    <ItemGroup>
+      <None Include="..\..\assets\icon.png">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+        <Link>icon.png</Link>
+      </None>
+    </ItemGroup>
 
 </Project>
